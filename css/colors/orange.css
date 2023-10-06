@@ -1,0 +1,135 @@
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #e75b1e;
+}
+.main-menu .navbar-default .navbar-nav .active a{
+	color: rgb(83, 155, 115);
+}
+.main-menu nav li a::after {
+    background: rgb(83, 155, 115);
+}
+.typer{
+	color: rgb(83, 155, 115) !important;
+}
+.banner-text h2{
+	color: rgb(83, 155, 115)
+}
+.book-btn a{
+	background: rgb(83, 155, 115);
+	border: 3px solid rgb(83, 155, 115);
+}
+.book-btn a:hover{
+	border: 3px solid rgb(83, 155, 115);
+}
+.hvr-underline-from-center::before{
+	background:rgb(83, 155, 115);
+}
+.block-title{
+	color: rgb(83, 155, 115);
+}
+.item-type-zoom .item-hover:hover::before{
+	background: rgb(83, 155, 115);
+}
+.special-box .owl-theme .owl-controls .owl-page.active span{
+	background: rgb(83, 155, 115);
+}
+.offer-item div h3{
+	color: rgb(83, 155, 115);
+}
+.tab-menu .is-active{
+	background: rgb(83, 155, 115);
+}
+.tab-menu .slick-arrow.slick-prev{
+	background: rgb(83, 155, 115) url(../../images/back.png) no-repeat center;
+	background-position: 2px 4px;
+}
+.tab-menu .slick-arrow.slick-next{
+	background: rgb(83, 155, 115) url(../../images/next.png) no-repeat center;
+	background-position: 7px 4px;
+}
+
+.offer-item .offer-price{
+	border: 1px solid rgb(83, 155, 115);
+}
+.sf-team:hover .text-col{
+	background-color: rgb(83, 155, 115);
+}
+.gal-item a::after{
+	background-color: rgb(83, 155, 115);
+}
+.overlay i:hover{
+	border: 1px solid rgb(83, 155, 115);
+	color: rgb(83, 155, 115);
+}
+.blog-btn-v a{
+	background: rgb(83, 155, 115);
+	border: 3px solid rgb(83, 155, 115);
+}
+.book-srv a{
+	background: rgb(83, 155, 115);
+	border: 3px solid rgb(83, 155, 115);
+}
+
+.panel-pricing .panel-heading{
+	background: rgb(83, 155, 115);
+}
+.panel-pricing{
+	border: 1px solid rgb(83, 155, 115);
+}
+.panel-body p strong span{
+	color: rgb(83, 155, 115);
+}
+.pricing-main .panel-footer a{
+	background: rgb(83, 155, 115);
+	border: 3px solid rgb(83, 155, 115);
+}
+.pricing-main .panel-footer a:hover{
+	border: 3px solid rgb(83, 155, 115);
+}
+
+.reserve-book-btn button{
+	background: rgb(83, 155, 115);
+	border: 3px solid rgb(83, 155, 115);
+}
+.reserve-book-btn button:hover a{
+	color:#000000;
+}
+.footer-news form a{
+	background: rgb(83, 155, 115);
+}
+.footer-news form a:hover{
+	border: 2px dotted rgb(83, 155, 115);
+}
+.footer-box-a h3{
+	color: rgb(83, 155, 115);
+}
+.footer-box-b h3{
+	color: rgb(83, 155, 115);
+}
+.footer-box-c h3{
+	color: rgb(83, 155, 115);
+}
+.footer-box-d h3{
+	color: rgb(83, 155, 115);
+}
+.footer-box-c p a:hover{
+	color: rgb(83, 155, 115);
+}
+.footer-box-b ul li a:hover{
+	color: rgb(83, 155, 115);
+}
+
+.footer-box .socials-box a:hover .social-circle-border{
+	color: rgb(83, 155, 115);
+}
+
+.footer-box-c p i{
+	color: rgb(83, 155, 115);
+}
+
+.copyright-main{
+	background:rgb(83, 155, 115);
+}
+
+#color-panel a.panel-button:hover{
+	color: rgb(83, 155, 115);		
+}
